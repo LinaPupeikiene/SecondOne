@@ -1,6 +1,6 @@
+<<<<<<< HEAD
 new text line
 and one more new
 
 something new to add into file
-
 Is this the new text ????
