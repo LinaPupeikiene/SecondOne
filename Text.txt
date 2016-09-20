@@ -1,1 +1,4 @@
+The new text added
 something new to add into file
+
+One more text line
